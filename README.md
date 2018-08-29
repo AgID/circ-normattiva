@@ -1,0 +1,1 @@
+# Standard per la rappresentazione XML e l’identificazione univoca del patrimonio informativo di natura giuridica

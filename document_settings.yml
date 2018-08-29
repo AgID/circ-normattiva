@@ -1,0 +1,9 @@
+document:
+  name: Definizione della categoria Stardard per la gestione degli atti giuridici
+  description:
+      Standard per la rappresentazione XML e l’identificazione univoca del patrimonio informativo di natura giuridica
+  tags:
+    - normattiva
+    - standard
+    - circolare
+    - atti giuridici
